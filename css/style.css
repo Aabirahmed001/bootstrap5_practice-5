@@ -1,0 +1,36 @@
+header, .hero, .body, .bar, .footer{
+	background-color:black;
+	,margin-bottom: 10px;
+	overflow: hidden;
+}
+.container{
+	overflow: hidden;
+}
+h1{
+
+	
+	margin: 20px 0;
+
+}
+h2{
+	margin: 20px 0;
+}
+
+.bo{
+	min-height: 80px;
+	background-color: cyan;
+	margin: 10px;
+	font-size: 30px;
+	text-align: center;
+	color: black;
+}
+h3{
+	margin: 10px 0;
+}
+.red{
+	background-color: blueviolet;
+}
+span{
+	background-color: cyan;
+}
+
